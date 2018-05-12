@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25971
     wikipedia: http://en.wikipedia.org/wiki/Randolph_B._Marcy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23066#The-Prairie-Traveler--13-A-Hand-book-for-Overland-Expeditions
 gutenberg_bookshelf: United States
 gutenberg_issued: '2007-10-17'
 gutenberg_type: Text
